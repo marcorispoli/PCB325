@@ -1,0 +1,159 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\23-325-0.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (Netlist_TAB "3")
+    (LAYOUT_Netlist_File "23-325-0.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (FALSE)
+    (LAYOUT_Units "0")
+    (FALSE)
+    (FALSE)
+    (FALSE)
+    (FALSE)
+    (FALSE)
+    (FALSE)
+    (FALSE)
+    (FALSE)
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Quantity}\t{Reference}\t{Descrizione}\t{Value}\t{PN Costruttore}\t{Codice Acquisto Fornitore}\t{Costruttore}\t{PACKAGE}\t{PCB Footprint}\t{NOTE}")
+    (BOM_Header
+       "Pos.\tQtà\tRif\tDescrizione\tValue\tPN Costruttore\tPN Fornitore\tCostruttore\tPackage\tPcbFootprint\tNote")
+    (BOM_Include_File
+       "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE")
+    ( "FALSE"))
+  (Folder "Outputs"
+    (File ".\23-325-0.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\23-325-0.bom"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Outputs")
+      (Select "Design Resources" ".\23-325-0.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 555"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1639 52 624")
+        (Scroll "-226 0")
+        (Zoom "112")
+        (Occurrence "/"))
+      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "BUTTONS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1665 78 650")
+        (Scroll "-185 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "CAN BUS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1691 104 676")
+        (Scroll "0 562")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "INPUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1717 130 702")
+        (Scroll "-226 30")
+        (Zoom "112")
+        (Occurrence "/"))
+      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MOTOR_ENABLE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1743 156 728")
+        (Scroll "0 881")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "MOTORS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1769 182 754")
+        (Scroll "-226 30")
+        (Zoom "112")
+        (Occurrence "/"))
+      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "OUTPUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1795 208 780")
+        (Scroll "-185 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POSX_SENS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 234 1821 234 806")
+        (Scroll "-185 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POSY_SENS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 260 1847 260 832")
+        (Scroll "-185 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POSZ_SENS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1613 26 598")
+        (Scroll "-226 30")
+        (Zoom "112")
+        (Occurrence "/"))
+      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POWER-LED")))
+  (MPSSessionName "Osvy")
+  (PartMRUSelector)
+  (ISPCBBASICLICENSE "false"))
