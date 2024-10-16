@@ -1,5 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[09/13/24]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -36,7 +37,11 @@
     (BOM_One_Part_Per_Line "FALSE")
     (Open_BOM_in_Excel "TRUE")
     (BOM_View_Output "FALSE")
-    ( "FALSE"))
+    (FALSE)
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (Display_Online_DRC_Results "FALSE"))
+  (Folder "Layout")
   (Folder "Outputs"
     (File ".\23-325-0.mnl"
       (Type "LAYOUT Netlist File"))
@@ -46,114 +51,62 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\marco\documents\data\progetti-git\hw\pcb-23-325\orcad\23-325-0.dsn")
+      (Path "Design Resources"
+         "c:\users\marco\documents\data\progetti-git\hw\pcb-23-325\orcad\23-325-0.dsn"
+         "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources" ".\23-325-0.dsn"))
+      (Select "Design Resources"
+         "c:\users\marco\documents\data\progetti-git\hw\pcb-23-325\orcad\23-325-0.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 555"))
+        (Placement "44 2 3 -1 -1 0 0 0 200 0 555"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 52 1639 52 624")
-        (Scroll "-226 0")
-        (Zoom "112")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1515 24 631")
+        (Scroll "-162 282")
+        (Zoom "119")
         (Occurrence "/"))
-      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "BUTTONS"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 78 1665 78 650")
-        (Scroll "-185 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "CAN BUS"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 104 1691 104 676")
-        (Scroll "0 562")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "INPUT"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1717 130 702")
-        (Scroll "-226 30")
-        (Zoom "112")
-        (Occurrence "/"))
-      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "MOTOR_ENABLE"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 156 1743 156 728")
-        (Scroll "0 881")
-        (Zoom "200")
-        (Occurrence "/"))
-      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "MOTORS"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1769 182 754")
-        (Scroll "-226 30")
-        (Zoom "112")
-        (Occurrence "/"))
-      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-23-325\ORCAD\23-325-0.DSN")
       (Schematic "SCHEMATIC1")
       (Page "OUTPUT"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 208 1795 208 780")
-        (Scroll "-185 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 5 24 5 1515 24 631")
+        (Scroll "-142 0")
+        (Zoom "123")
         (Occurrence "/"))
-      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-23-325\ORCAD\23-325-0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "POSX_SENS"))
+      (Page "POWER-LED"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 234 1821 234 806")
-        (Scroll "-185 0")
-        (Zoom "100")
+        (Placement "44 0 1 -1 -1 5 24 5 1515 24 631")
+        (Scroll "-142 311")
+        (Zoom "123")
         (Occurrence "/"))
-      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-23-325\ORCAD\23-325-0.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "POSY_SENS"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 260 1847 260 832")
-        (Scroll "-185 0")
-        (Zoom "100")
-        (Occurrence "/"))
-      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "POSZ_SENS"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 26 1613 26 598")
-        (Scroll "-226 30")
-        (Zoom "112")
-        (Occurrence "/"))
-      (Path "D:\UTENTI\00.LAVORI IN CORSO\METALTRONICA\23-325-0\23-325-0.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "POWER-LED")))
-  (MPSSessionName "Osvy")
+      (Page "BUTTONS")))
+  (MPSSessionName "marco")
   (PartMRUSelector)
-  (ISPCBBASICLICENSE "false"))
+  (ISPCBBASICLICENSE "false")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"))
