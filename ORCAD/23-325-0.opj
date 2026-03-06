@@ -1,6 +1,6 @@
 (ExpressProject ""
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[09/13/24]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[03/06/26]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -51,21 +51,60 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "C:\Users\marco\Documents\Data\Progetti-GIT\HW\PCB-23-325\ORCAD\23-325-0.dsn")
-      (Path "Design Resources"
-         "C:\Users\marco\Documents\Data\Progetti-GIT\HW\PCB-23-325\ORCAD\23-325-0.dsn"
-         "SCHEMATIC1")
+      (Path "Design Resources" ".\23-325-0.dsn")
+      (Path "Design Resources" ".\23-325-0.dsn" "SCHEMATIC1")
       (Path "Outputs")
-      (Select "Design Resources"
-         "C:\Users\marco\Documents\Data\Progetti-GIT\HW\PCB-23-325\ORCAD\23-325-0.dsn"
-         "SCHEMATIC1" "POWER-LED"))
+      (Select "Design Resources" ".\23-325-0.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
         (Placement "44 2 3 -1 -1 0 0 0 200 0 555"))
-      (Tab 0)))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1388 24 631")
+        (Scroll "-79 3")
+        (Zoom "123")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-23-325\ORCAD\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "OUTPUT"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 1388 24 631")
+        (Scroll "-50 1")
+        (Zoom "107")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-23-325\ORCAD\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POSX_SENS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1388 24 631")
+        (Scroll "-50 11")
+        (Zoom "107")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-23-325\ORCAD\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 0 0 5 1388 24 631")
+        (Scroll "-96 90")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MARCO\DOCUMENTS\DATA\PROGETTI-GIT\HW\PCB-23-325\ORCAD\23-325-0.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "INPUT")))
   (MPSSessionName "marco")
   (PartMRUSelector)
   (ISPCBBASICLICENSE "false")
